@@ -1,0 +1,8 @@
+# 编译产物
+*.exe
+
+# 构建文件夹
+build/
+
+# VS Code 配置（可选，如果你想把 tasks.json 也上传，删掉下面这行）
+# .vscode/
